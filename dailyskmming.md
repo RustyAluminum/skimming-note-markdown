@@ -11,7 +11,7 @@
 ##### my question:
 -->
 
-# White dwarfs
+
 ## 2102.06719<br>Double detonations of sub-MCh CO white dwarfs:Can different core and He shell masses explain variations of Type Ia supernovae?  
 ### home message
 ##### work:  
@@ -30,7 +30,7 @@
 普遍认为Sub-Chandrasekhar mass carbon-oxygen white dwarfs with a surface helium shell 的progenitors是SNe Ia, 那模拟SNe Ia的thermonuclear explosions应该符合至少部分SNe Ia的观测数据.<br>
 
 
-#radiative transfer
+
 ##2101.04722<br>Atomic line radiative transfer with MCFOST I. Code description and benchmarking
 ### home message
 ##### work:
@@ -49,7 +49,7 @@
 ### my question:
 
 
-#supernovae remnants
+
 ##2103.03844<br>The Post-impact Evolution of the X-ray Emitting Gas in SNR 1987A Viewed by XMM-Newton
 ### home message
 ##### work:
