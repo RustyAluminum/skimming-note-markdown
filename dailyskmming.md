@@ -8,6 +8,8 @@
 
 ##### problem:
 
+### note
+
 -->
 
 
@@ -74,7 +76,7 @@
 the corresponding photon frequencies that probe escaping UHECRs.
 
 ##### problem:
-to find: 1) local powerful *ultrahigh energy cosmic ray*(UHECR) sources; 2)evidence for variability in AGN and radio galaxies.
+to find: 1) local powerful *ultrahigh energy cosmic ray*(UHECR) sources; 2)evidence for variability in AGN and radio galaxies.<br>
 
 
 
@@ -96,21 +98,51 @@ the Shell model the ionisation does not vary smoothly with radius – the ionisa
 ##### problem:
 * the winds are inhomogeneous (clumped) and are difficult to model in radiative transfer codes,<br>
 * VFF(The volume-filling factor approach is the principal method adopted to treat clumping) is simplistic<br>
-* to treat clumpy winds more realistically and test the validity of the VFF approach
+* to treat clumpy winds more realistically and test the validity of the VFF approach<br>
 
 
-## *2103.07555*<br>pion: Simulating bow shocks and circumstellar nebulae
+## *2103.07555*<br>PION: Simulating bow shocks and circumstellar nebulae
 ### home message
 ##### work:
 * Applications of the code to modelling circumstellar nebulae+与之前的计算作比较: <br>
 3D simulation of a magnetized bow shock, 2D simulation of the formation
 of ring nebulae around rotating and evolving stars, 3D R-HD simulation of the wind-wind interaction from a RSG evolving to a WR star, 3D MHD simulation of a
 wind-wind collision between two rotating stars.<br>
-PION code, includes radiative transfer of ionizing and non-ionizing photons for R-HD and for R-MHD.<br>
-![test](2103.jpg "test")
-
+* PION code, includes radiative transfer of ionizing and non-ionizing photons for R-HD and for R-MHD.<br>
 
 ##### conclusion:
 bow shock形成机制的2D与3D模拟结果很不一致<br>
-PION的并行适用于mhd（不考虑辐射转移）
+PION的并行适用于mhd（不考虑辐射转移）<br>
+
+
+## 2103.07599v1<br>Discovery of Double-Ring Structure in the Supernova Remnant N103B: Evidence for Bipolar Winds from a Type Ia Supernova Progenitor
+### home message
+##### work:
+
+
+## 2103.09142v1<br>The morphology of the X-ray afterglows and of the jetted GeV emission in long GRBs
+### home message
+##### work:
+* 记录378个源，4个prototypes GRBs 130427A, 160509A, 180720B, 190114C的光谱，光度，SN-rise duration，$A_X,\alpha_X$，$\nu$ NS spin time-evolution
+
+
+##### conclusion:
+
 ##### problem:
+
+
+## 2103.08687v1<br>Imaginary images and Stokes phenomena in the weak plasma lensing of coherent sources
+### home message
+##### work:
+extract the physical parameters of the lensing system.<br>
+rational lens model
+##### conclusion:
+* in weak-lensing regimes, where only a single geometric image is present, diffraction patterns caused by interference with imaginary images can provide the same phase information as though multiple geometric images were interfering.
+* for any event observed in the strong-lensing regime, there will be a corresponding weak-lensing event in higher frequency bands.
+* FRBs lensed by plasma lenses in our own galaxy will have much smaller time delays.
+
+### note
+* coherent source: such as pulsars, FRB = coherent point-sources. Wave effects will be important in describing their lensing behaviour.
+* Stokes line : generic features of many lens models, regions in parameter space where imaginary images begin to contribute to the overall intensity modulation of lensed sources.
+* extreme scattering events (ESEs): radio sources' intensity undergo large, frequency dependent changes, so as pulsars. Lens models were proposed to explain it.
+* Pulsars have been observed to undergo ESEs caused by roughly AU-scale lenses, with electron column densities of order $\sim 0.01 pc\, cm^{-3}$
