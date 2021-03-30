@@ -32,6 +32,8 @@
 
 
 
+
+
 ## 2101.04722<br>Atomic line radiative transfer with MCFOST I. Code description and benchmarking
 ### home message
 ##### work:
@@ -196,3 +198,23 @@ $\gamma=0.75,1.75$
 ### note
 * Chandrasekhar's (ordinary non-resonant) dynamical friction (CDF)
 * resonant dynamical friction (RDF)
+
+
+## 2103.15384<br>Fermi-LAT detection of the GeV gamma-ray emission from Type Ia SNR G272.2-3.2
+### home message
+##### work:
+SED was generated in the 0.2-500 GeV<br>
+<img src="graph\daily\2103\15384_t1.png" width="80%">
+##### conclusion:
+* a significant $\gamma$-ray emission
+* No extended $\gamma$-ray spatial distribution is found
+* GeV spatial position conincides well with X-ray
+* GeV is within the range of the thermal composite
+
+### note
+SNR G272.2-3.2: <br>
+
+* about 1800 years old, plasma temperature $10^7 K$, non-shell-like, nebulosity exists features of SNR filament, measured \[S II\]$H_\alpha$
+* X-ray emission: showed a thermal feature. a brighter X-ray SNR, X-ray band centrally filled. NIE model
+* radio band: a non-thermal feature, spectral index of 0.55$\pm$0.15, similar to a circular, to the morphology of the X-ray band
+* 
